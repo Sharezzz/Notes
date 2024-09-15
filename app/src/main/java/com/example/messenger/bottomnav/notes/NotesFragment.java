@@ -1,6 +1,5 @@
 package com.example.messenger.bottomnav.notes;
 
-import android.content.Intent;
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -12,8 +11,6 @@ import androidx.fragment.app.Fragment;
 import androidx.recyclerview.widget.DividerItemDecoration;
 import androidx.recyclerview.widget.LinearLayoutManager;
 
-import com.example.messenger.MainActivity;
-import com.example.messenger.NewNoteActivity;
 import com.example.messenger.databinding.FragmentNotesBinding;
 import com.example.messenger.notes.Note;
 import com.example.messenger.notes.NotesAdapter;
