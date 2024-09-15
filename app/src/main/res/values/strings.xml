@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Messenger</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="new_here">Нет аккаунта?</string>
+    <string name="register">Регистрация</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="username">Username</string>
+    <string name="notes">Notes</string>
+    <string name="profile">Profile</string>
+    <string name="new_note">Создать новую заметку</string>
+    <string name="enter_title">Введите заголовок</string>
+    <string name="enter_text">Введите текст</string>
+    <string name="confirm">Добавить заметку</string>
+    <string name="delete">Удалить заметку</string>
+</resources>

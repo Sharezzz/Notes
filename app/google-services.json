@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "450133001781",
+    "firebase_url": "https://messenger-c298a-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "messenger-c298a",
+    "storage_bucket": "messenger-c298a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450133001781:android:3029170e69c2e3f4b6137c",
+        "android_client_info": {
+          "package_name": "com.example.messenger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3jTtZ4tDZkMU3IJvhS65zoPuMZmmkV8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
